@@ -6,6 +6,7 @@
 #### tomcat
 #### 并发与多线程
 [Java并发编程的艺术](java\并发与多线程\Java并发编程的艺术.md)
+[Java并发编程的艺术](https://github.com/bobit/ebooks/wiki/Java并发编程的艺术)
 
 #### 手册
 #### 算法
